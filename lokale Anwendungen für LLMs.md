@@ -8,8 +8,8 @@
 
 ## Woher bekomme ich freie Sprachmodelle (LLMs)?
 
-- Huggingface:  https://huggingface.co/models
-- Civitai:      https://civitai.com/models 
+- Huggingface:         https://huggingface.co/models
+- Civitai (Bild):      https://civitai.com/models 
 
 ## Welche Modelle sind für welchen Kontext erpropt und empfehlenswert?
 
