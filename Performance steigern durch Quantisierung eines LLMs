@@ -1,0 +1,5 @@
+## Guide
+https://llama.meta.com/docs/how-to-guides/quantization/
+
+## Diskussion:
+Brauchbarkeit der LLMs nach Quantisierung wird angezweifelt: https://www.reddit.com/r/LocalLLaMA/comments/1cetn9z/quantization_seems_to_hurt_the_quality_of_llama_3/
