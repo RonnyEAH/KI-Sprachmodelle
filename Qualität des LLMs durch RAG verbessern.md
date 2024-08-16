@@ -4,7 +4,8 @@
 
 ## Wie funktioniert es?
 
-## Vor- und Nachteile im EIsnatz von RAG
+
+## Vor- und Nachteile im Einnatz von RAG
 
 ## Beispiele
 
